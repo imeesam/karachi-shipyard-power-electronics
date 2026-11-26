@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "skills": {
+    "convert-plaintext-to-md": {
+      "source": "github/awesome-copilot",
+      "commit": "93fc8b9ee3ef56b9b5e7261e6ce92d314cb2c1cf",
+      "sourceType": "github",
+      "skillPath": "skills/convert-plaintext-to-md/SKILL.md",
+      "computedHash": "7d7d3d866355de95f46b7ebb45934668ab8dfcbde6ee5c020acb9a4256c00072"
+    }
+  }
+}
