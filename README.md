@@ -78,7 +78,6 @@ A compact capacitive-dropper regulated DC power supply PCB for low-power auxilia
 
 ## Getting Started
 
-<<<<<<< HEAD
 1. Clone the repository:
 
    ```bash
