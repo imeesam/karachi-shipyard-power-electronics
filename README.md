@@ -1,8 +1,3 @@
-Here is a clean, ready-to-paste `README.md` tailored to your exact folder structure, KiCad files, image paths, and Karachi Shipyard & Engineering Works (KSEW) experience.
-
-Copy the Markdown below directly into your root `README.md` file:
-
-```markdown
 # Power Electronics & PCB Design Portfolio
 **Hardware Engineering Projects | Karachi Shipyard & Engineering Works (KSEW)**
 
@@ -110,15 +105,5 @@ git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.c
 ---
 
 ## Author
-
-**Meesam**
-
+**Meesam Abbas**
 Power Electronics & PCB Design — Karachi Shipyard & Engineering Works (KSEW)
-
-```
-
-### Quick Tip Before You Push
-* Notice your folder is currently named `AC to DC Conveter` (missing the `r` in *Converter*)—the image links in the `README.md` above already match that exact folder name (`AC%20to%20DC%20Conveter`) so all your pictures will render properly on GitHub right away.
-* Replace `YOUR-USERNAME/YOUR-REPO-NAME` in the `git clone` command with your actual GitHub username and repository name once you create it.
-
-```
