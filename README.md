@@ -85,12 +85,11 @@ A compact capacitive-dropper regulated DC power supply PCB for low-power auxilia
    git clone https://github.com/imeesam/karachi-shipyard-power-electronics.git
    cd karachi-shipyard-power-electronics
    ```
-=======
+
 1. **Clone the repository:**
 ```bash
 git clone (https://github.com/imeesam/karachi-shipyard-power-electronics.git)
 ```
->>>>>>> 53893e26971052f2e438a361b39d9deaab6bf608
 
 2. Open a project in KiCad:
 
@@ -108,16 +107,5 @@ git clone (https://github.com/imeesam/karachi-shipyard-power-electronics.git)
 The projects were created with KiCad. KiCad 6.0 or later is recommended.
 
 ## Author
-<<<<<<< HEAD
-
-**Meesam**
-
-Power Electronics & PCB Design - Karachi Shipyard & Engineering Works (KSEW)
-
-## License
-
-See [LICENSE](LICENSE) for license terms.
-=======
 **Meesam Abbas**
-Power Electronics & PCB Design — Karachi Shipyard & Engineering Works (KSEW)
->>>>>>> 53893e26971052f2e438a361b39d9deaab6bf608
+Power Electronics & PCB Design - Karachi Shipyard & Engineering Works (KSEW)
